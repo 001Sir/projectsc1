@@ -12,7 +12,7 @@ import streamlit as st
 import time  # For adding delay between web requests
 
 # Set OpenAI API key
-os.environ["OPENAI_API_KEY"] = "your_openai_api_key_here"
+os.environ["OPENAI_API_KEY"] = "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"
 
 # Configure logging
 logging.basicConfig(filename="chatbot_logs.txt", level=logging.INFO)
