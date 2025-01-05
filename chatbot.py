@@ -20,7 +20,7 @@ except ImportError:
     os.system('pip install langchain openai streamlit pyttsx3')
 
 # Set OpenAI API key (you can load it securely using .env)
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 # Configure logging
 logging.basicConfig(filename="chatbot_logs.txt", level=logging.INFO)
