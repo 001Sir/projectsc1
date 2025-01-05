@@ -1,4 +1,9 @@
-streamlit
 langchain
+langchain-community
 openai
+streamlit
+pyttsx3
 python-dotenv
+pyttsx3
+pypdf
+
