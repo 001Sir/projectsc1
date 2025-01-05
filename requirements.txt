@@ -6,4 +6,5 @@ pyttsx3
 python-dotenv
 pyttsx3
 pypdf
+deep-translator
 
