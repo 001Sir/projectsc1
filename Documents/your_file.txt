@@ -1,0 +1,2 @@
+What is LangChain? LangChain is a framework for building LLM-powered applications.
+What are embeddings? Embeddings are vector representations of text used for semantic search.
