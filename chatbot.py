@@ -50,6 +50,7 @@ urls = [
     "https://nwsisd.edu/school-calendar",
     "https://nwsisd.edu/pta-updates",
     "https://nwsisd.edu/school-performance-reports"
+    "https://www.nws.k12.mn.us/magnet-schools.html"
 ]
 
 # Load content from all URLs

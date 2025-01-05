@@ -46,3 +46,99 @@ ERROR:root:Failed to load https://nwsisd.edu/school-performance-reports: No modu
 INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 INFO:faiss.loader:Loading faiss.
 INFO:faiss.loader:Successfully loaded faiss.
+ERROR:root:Failed to load https://nwsisd.edu/northwest-high: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/lakeside-elementary: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pine-grove-middle: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/summit-academy: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/district-news: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/announcements: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-calendar: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pta-updates: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-performance-reports: No module named 'bs4'
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+ERROR:root:Failed to load https://nwsisd.edu/northwest-high: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/lakeside-elementary: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pine-grove-middle: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/summit-academy: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/district-news: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/announcements: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-calendar: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pta-updates: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-performance-reports: No module named 'bs4'
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+ERROR:root:Failed to load https://nwsisd.edu/northwest-high: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/lakeside-elementary: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pine-grove-middle: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/summit-academy: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/district-news: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/announcements: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-calendar: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pta-updates: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-performance-reports: No module named 'bs4'
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:faiss.loader:Loading faiss.
+INFO:faiss.loader:Successfully loaded faiss.
+ERROR:root:Failed to load https://nwsisd.edu/northwest-high: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/lakeside-elementary: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pine-grove-middle: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/summit-academy: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/district-news: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/announcements: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-calendar: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pta-updates: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-performance-reports: No module named 'bs4'
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+ERROR:root:Failed to load https://nwsisd.edu/northwest-high: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/lakeside-elementary: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pine-grove-middle: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/summit-academy: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/district-news: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/announcements: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-calendar: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pta-updates: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-performance-reports: No module named 'bs4'
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:User: tell me about the district | Bot: The Northwest Suburban Integration School District (NWSISD) is a public corporation subject to the control of the legislature, limited only by constitutional restrictions. It has been created to provide students from member districts the opportunity to participate in multi-cultural learning experiences. NWSISD is a separate legal entity, coordinate with and not subordinate to the counties in which it is situated, and not subservient to municipalities within its territory. The district has the authority to raise funds for operation and maintenance, manage and expend funds, accept gifts and donations, acquire property for district purposes, and manage its property in a manner consistent with the educational functions of the district.
+ERROR:root:Failed to load https://nwsisd.edu/northwest-high: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/lakeside-elementary: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pine-grove-middle: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/summit-academy: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/district-news: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/announcements: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-calendar: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pta-updates: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-performance-reports: No module named 'bs4'
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+ERROR:root:Failed to load https://nwsisd.edu/northwest-high: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/lakeside-elementary: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pine-grove-middle: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/summit-academy: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/district-news: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/announcements: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-calendar: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pta-updates: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-performance-reports: No module named 'bs4'
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:User: how many schools are within the district? | Bot: Based on the information provided, there are at least two schools within the NWSISD district: Summit Academy in Minneapolis, MN, and Lakeside Elementary in Maple Grove, MN.
+ERROR:root:Failed to load https://nwsisd.edu/northwest-high: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/lakeside-elementary: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pine-grove-middle: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/summit-academy: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/district-news: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/announcements: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-calendar: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/pta-updates: No module named 'bs4'
+ERROR:root:Failed to load https://nwsisd.edu/school-performance-reports: No module named 'bs4'
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:User: how many schools are within the district? | Bot: Based on the information provided, there are at least two schools within the NWSISD district: Summit Academy and Lakeside Elementary.
